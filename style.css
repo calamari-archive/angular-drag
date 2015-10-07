@@ -1,0 +1,15 @@
+.box {
+  background: #fff;
+  border: 1px solid #999;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  padding: 5px;
+  display: inline-block;
+  vertical-align: top;
+  overflow: hidden;
+}
+
+.jaz-handle {
+  background: #999;
+}
